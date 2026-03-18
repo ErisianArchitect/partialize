@@ -1,0 +1,10 @@
+[package]
+name = "currytime"
+authors = ["ErisianArchitect <https://github.com/ErisianArchitect>"]
+version = "0.1.0"
+edition = "2024"
+repository = "https://github.com/ErisianArchitect/partialize"
+documentation = "https://docs.rs/partialize"
+description = "Generic partial application library."
+license = "MIT"
+readme = "README.md"
