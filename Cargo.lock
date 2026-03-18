@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "currytime"
+name = "partialize"
 version = "0.1.0"

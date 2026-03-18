@@ -1,5 +1,5 @@
 [package]
-name = "currytime"
+name = "partialize"
 authors = ["ErisianArchitect <https://github.com/ErisianArchitect>"]
 version = "0.1.0"
 edition = "2024"
